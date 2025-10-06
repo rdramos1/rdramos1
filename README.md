@@ -11,6 +11,9 @@
 - 💬 I enjoy working on projects that mix **clean code**, **API design**, and **data management**  
 - ⚙️ Interested in **microservices**, **cloud computing**, and **RESTful APIs**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Ramos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdramos1)
+[![Email](https://img.shields.io/badge/Email-dev.ricardoramos@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.ricardoramos@gmail.com)
+
 ---
 
 ## 🧠 Tech Stack
